@@ -22,7 +22,8 @@ cd email-extractor
 ```
 
 3. Install dependencies:
-```npm install
+```
+npm install
 ```
 ## Usage
 
@@ -37,7 +38,9 @@ node extractEmails.js your_mbox_file.txt
 
 ## Example
 Suppose you have an MBOX file named emails.mbox.txt containing emails. To extract email addresses from this file, run:
+```
 node extractEmails.js emails.mbox.txt
+```
 
 The script will generate an output.txt file containing the extracted email addresses.
 
