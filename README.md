@@ -17,18 +17,21 @@ Before running this script, ensure you have the following installed:
 ## Installation
 
 2. Navigate to the project directory:
+```
 cd email-extractor
+```
 
 3. Install dependencies:
-```
-npm install
+```npm install
 ```
 ## Usage
 
 1. Place your MBOX file (with the .txt extension) in the project directory.
 2. Open a terminal and navigate to the project directory.
 3. Run the script with the following command, replacing your_mbox_file.txt with the name of your MBOX file:
+```
 node extractEmails.js your_mbox_file.txt
+```
 4. The script will process the MBOX file and output the extracted email addresses to a file named output.txt in the project directory.
 
 
