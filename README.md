@@ -1,6 +1,6 @@
 # Email Extractor
 
-This is a simple Node.js script for extracting email addresses from an MBOX file. It reads the content of the MBOX file, extracts email addresses from each message, and outputs them to a text file. I am a development student and I woudl appreciate any and all feedback. Thanks everyone!
+This is a simple Node.js script for extracting email addresses from an MBOX file. It reads the content of the MBOX file, extracts email addresses from each message, and outputs them to a text file. I am a development student and I would appreciate any and all feedback. Thanks everyone!
 
 ## Features
 
