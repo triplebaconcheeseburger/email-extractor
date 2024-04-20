@@ -20,8 +20,9 @@ Before running this script, ensure you have the following installed:
 cd email-extractor
 
 3. Install dependencies:
+```
 npm install
-
+```
 ## Usage
 
 1. Place your MBOX file (with the .txt extension) in the project directory.
