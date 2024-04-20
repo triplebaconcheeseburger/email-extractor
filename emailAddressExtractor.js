@@ -39,8 +39,8 @@ function extractEmailsFromMbox(filePath, outputFilePath) {
 }
 
 // Usage example
-const mboxFilePath = '/Volumes/iMac/hyph2.mbox/test.txt'; // Replace 'export.txt' with the actual file name
-const outputFilePath = '/Volumes/iMac/hyph2.mbox/testOutput.txt'; // Replace 'output.txt' with the desired output file name
+const mboxFilePath = 'path/to/your/mbox/export.txt'; // Replace 'export.txt' with the actual file name
+const outputFilePath = 'path/to/your/output/output.txt'; // Replace 'output.txt' with the desired output file name
 
 extractEmailsFromMbox(mboxFilePath, outputFilePath)
     .then(outputFile => {
